@@ -1,0 +1,27 @@
+h1 {
+    margin-left: 10%;
+    font-size: 70px;
+    font-style: oblique;    
+}
+
+.bio {
+    padding-top: 5%;
+    padding-left: 5%;
+    grid-area: main;
+}
+
+.first-img {
+    float: right;
+    margin-right: 5%;
+    padding: 5%;
+}
+
+.second-img {
+    float: left;
+    padding: 5%;
+}
+
+#last {
+    clear: both;
+}
+

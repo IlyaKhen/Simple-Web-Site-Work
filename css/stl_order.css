@@ -1,0 +1,23 @@
+.form {
+    border: 3px solid whitesmoke;
+    border-radius: 5px;
+    width: 25%;
+
+    margin-left: 15%;
+    margin-top: 2%;
+
+    padding: 10px;
+
+    background-color: #684242;
+}
+
+.order {
+    border-radius: 5px;
+    height: 50px;
+    width: 100px;
+
+    padding: 5%;
+
+    margin-left: 5%;
+    margin-top: 5%;
+}
